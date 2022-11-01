@@ -1,2 +1,2 @@
-# Ardu-no
+# Arduino
 Projetos diversos para Arduíno
